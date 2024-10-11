@@ -1,0 +1,36 @@
+{
+  "name": "vk-rcon-panel",
+  "version": "1.0.0",
+  "description": "VK Minecraft RCON Commands panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "npm install --save vk-io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxcfox/vk-rcon-panel.git"
+  },
+  "keywords": [
+    "vk",
+    "rcon",
+    "mc",
+    "mcpe",
+    "mcbe",
+    "minecraft",
+    "mcconsole",
+    "mcserver",
+    "litecore",
+    "pocketmine",
+    "pmmp"
+  ],
+  "author": "Артём",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxcfox/vk-rcon-panel/issues"
+  },
+  "homepage": "https://github.com/zxcfox/vk-rcon-panel#readme",
+  "dependencies": {
+    "vk-io": "^4.9.1"
+  }
+}
